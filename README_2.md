@@ -13,3 +13,5 @@ this means, a merged branch can be re-used an extended
 lets clean up with my default branch
 
 default_branch_README_2
+
+one general default_branch for everything -> mydefault_branch
